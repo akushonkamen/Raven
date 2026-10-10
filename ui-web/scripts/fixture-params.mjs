@@ -73,6 +73,7 @@ export const PARAMS = {
   'trajectory.block': { session_key: 'gui:demo', entry_id: 't:tool1:tool.output', entry_revision: 6, epoch: 'demo-1', block_id: 'error' },
   'model.save_key': { slug: 'openai', api_key: 'sk-x' },
   'model.disconnect': { slug: 'openai' },
+  'model.reveal_key': { slug: 'anthropic' },
   'model.add_model': { slug: 'openai', model: 'gpt-5.2' },
   'model.remove_model': { slug: 'openai', model: 'gpt-5.1' },
   'model.fetch_models': { slug: 'openai' },
